@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm karthikeyan.D</h1>
 <h3 align="center">Java developer</h3>
 
