@@ -1,25 +1,49 @@
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Karthikeyan D</h1>
+<h3 align="center">Java Developer | Spring Boot Enthusiast</h3>
 
-<h1 align="center">Hi 👋, I'm karthikeyan.D</h1>
-<h3 align="center">Java developer</h3>
+<!-- Cover Image -->
+<p align="center">
+  <img src="pic2.jpeg" alt="Profile Cover" width="100%" style="border-radius: 10px;" />
+</p>
+
+<br>
+
+<!-- About Me -->
+<p align="center">
+  🔭 Currently working on <b>Spring Boot & MySQL</b><br>
+  🌱 Learning <b>Spring Boot, SQL & REST APIs</b><br>
+  💬 Ask me about <b>Java, HTML & CSS</b><br>
+  📫 Reach me at <b>karthikeyan2662005@gmail.com</b>
+</p>
+
+<hr width="60%" />
+
+<!-- Connect With Me -->
+<h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-  <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
+  <a href="https://www.linkedin.com/in/karthikeyan260605/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+         width="40" height="40" style="margin: 0 12px;" />
+  </a>
+
+  <a href="https://www.leetcode.com/karthikdheena" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+         width="40" height="40" style="margin: 0 12px;" />
+  </a>
 </p>
 
-- 🔭 I’m currently working on **spring boot and mysql**
+<hr width="60%" />
 
-- 🌱 I’m currently learning **spring boot,sql and rest api**
+<!-- Languages & Tools -->
+<h3 align="center">🛠 Languages & Tools</h3>
 
-- 💬 Ask me about **java,html and css**
-
-- 📫 How to reach me **karthikeyan2662005@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/karthikeyan260605/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan.d" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karthikdheena" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthikdheena" height="30" width="40" /></a>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" style="margin:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="45" height="45" style="margin:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" style="margin:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" style="margin:8px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" style="margin:8px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" style="margin:8px;" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer">  </a> </p>
