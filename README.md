@@ -6,15 +6,17 @@
 </p>
 
 <h3 align="center">
-Backend Developer in Progress <br>
-Learning Java and Spring Boot <br>
-Understanding Spring APIs & Spring Security <br>
+Backend Developer in Progress 
+Learning Java and Spring Boot 
+Understanding Spring APIs & Spring Security 
 On my way to mastering backend development 🚀
 </h3>
 
 - 🔭 I’m currently working on **spring boot projects**
 
 - 🌱 Also currently learning **spring boot, sql and rest apis**
+
+- 📫 Mail me **karthikeyan2662005@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -26,11 +28,6 @@ On my way to mastering backend development 🚀
 <a href="https://wa.me/919876543210" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="35" width="40" />
 </a>
-&nbsp;&nbsp;
-<a href="mailto:karthikeyan2662005@gmail.com">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="35" width="40"/>
-</a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
