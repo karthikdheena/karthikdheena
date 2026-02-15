@@ -4,14 +4,14 @@
   <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
 </p>
 
-<h3 align="center">Backend Developer in Progress  
-Java | Learning Spring  
+<h3 align="center">Backend Developer in Progress 
+  Learning java and Spring  
 Understanding Spring ApIs & Spring security  
 On my way to mastering backend development 🚀</h3>
 
 - 🔭 I’m currently working on **spring boot projects**
 
-- 🌱 I’m currently learning **spring boot,sql and rest apis*
+- 🌱 ALos currently learning **spring boot,sql and rest apis*
 
 - 📫 How to reach me **karthikeyan2662005@gmail.com**
 
