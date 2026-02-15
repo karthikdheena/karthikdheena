@@ -25,7 +25,7 @@ On my way to mastering backend development 🚀
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="40" />
 </a>
 &nbsp;&nbsp;
-<a href="https://wa.me/919876543210" target="blank">
+<a href="https://wa.me/917397443161" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="whatsapp" height="35" width="40" />
 </a>
 </p>
