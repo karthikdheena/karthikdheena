@@ -6,9 +6,9 @@
   <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
 </p>
 
-- 🔭 I’m currently working on **spring boot and mysql**
+- 🔭 I’m currently working on **spring boot projects**
 
-- 🌱 I’m currently learning **spring boot,sql and rest api**
+- 🌱 I’m currently learning **spring boot,sql and rest apis**
 
 - 💬 Ask me about **java,html and css**
 
