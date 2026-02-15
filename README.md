@@ -6,9 +6,9 @@
 </p>
 
 <h3 align="center">
-Backend Developer in Progress <br>
-Learning Java and Spring Boot <br>
-Understanding Spring APIs & Spring Security <br>
+Backend Developer in Progress 
+Learning Java and Spring Boot 
+Understanding Spring APIs & Spring Security 
 On my way to mastering backend development 🚀
 </h3>
 
