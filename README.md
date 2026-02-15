@@ -5,12 +5,6 @@
   <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
 </p>
 
-
-
-<p align="center">
-  <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
-</p>
-
 <h3 align="center">Backend Developer in Progress 
   Learning java and Spring Boot  
 Understanding Spring ApIs & Spring security  
