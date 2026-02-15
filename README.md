@@ -16,8 +16,6 @@ On my way to mastering backend development 🚀
 
 - 🌱 Also currently learning **spring boot, sql and rest apis**
 
-- 📫 How to reach me **karthikeyan2662005@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
