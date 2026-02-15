@@ -12,7 +12,7 @@ On my way to mastering backend development 🚀</h3>
 
 - 🔭 I’m currently working on **spring boot projects**
 
-- 🌱 ALos currently learning **spring boot,sql and rest apis*
+- 🌱 Also currently learning **spring boot,sql and rest apis*
 
 - 📫 How to reach me **karthikeyan2662005@gmail.com**
 
