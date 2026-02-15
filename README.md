@@ -28,8 +28,9 @@ On my way to mastering backend development 🚀
 </a>
 &nbsp;&nbsp;
 <a href="mailto:karthikeyan2662005@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="35" width="40" />
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="35" width="40"/>
 </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
