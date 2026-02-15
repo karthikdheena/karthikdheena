@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm karthikeyan.D</h1>
-<h2 align="center"> Software Developer </h2>
+<h3 align="center">Software Developer</h3>
+
+<p align="center">
+  <img src="pic2.jpeg" alt="Profile Cover" width="100%" />
+</p>
+
 
 
 <p align="center">
